@@ -39,6 +39,6 @@
   },
   "homepage": "https://github.com/rjk79/W7D5#readme",
   "devDependencies": {
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.12"
   }
 }
